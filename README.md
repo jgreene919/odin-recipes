@@ -1,0 +1,1 @@
+This project is to create an HTML website with a few recipes. It'll sharpen my Github and HTML skills.
